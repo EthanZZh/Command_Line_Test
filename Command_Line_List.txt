@@ -7,6 +7,6 @@ git log = list recent commits
 git add . = stage all changed file
 git add #filename = stage a specific file
 
-git commit -m "First commit" = commit files that have staged in local repository
+git commit -m "#title" = commit files that have staged in local repository
 git push -u origin master = push to GitHub repository
 
