@@ -1,0 +1,11 @@
+git status = list unstaged files that have been changed
+
+git diff = list changes
+
+git log = list recent commits
+
+git add . = stage all changed file
+git add #filename = stage a specific file
+
+git push -u origin master
+
